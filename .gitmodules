@@ -1,3 +1,6 @@
 [submodule "Concurrency"]
 	path = Concurrency
 	url = https://github.com/senser0071/Concurrency
+[submodule "Memory_Management"]
+	path = Memory_Management
+	url = https://github.com/senser0071/Memory_Management
